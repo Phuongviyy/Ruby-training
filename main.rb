@@ -1,3 +1,1 @@
-def test
-   
-end
+print"hello"
